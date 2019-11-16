@@ -7,8 +7,7 @@ def deal_card
 end
 
 def display_card_total(cards)
-  cards.map |n| n + n 
-  puts ""
+  
 end
 
 def prompt_user
