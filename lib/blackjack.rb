@@ -6,8 +6,9 @@ def deal_card
   # code #deal_card here
 end
 
-def display_card_total
-  # code #display_card_total here
+def display_card_total(cards)
+  cards.map |n| n + n 
+  puts ""
 end
 
 def prompt_user
