@@ -55,6 +55,6 @@ def runner
   i = 0 
   welcome
   deal_card
-  while 
+  until 
 end
     
