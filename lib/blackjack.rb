@@ -4,7 +4,7 @@ end
 
 def deal_card
  card = 0
- card.rand(11)
+ card.rand(`1)
 end
 
 def display_card_total(cards)
