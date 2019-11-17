@@ -3,7 +3,8 @@ def welcome
 end
 
 def deal_card(num)
-  [].rand(11)
+  p [].rand(11)
+  
 end
 
 def display_card_total(cards)
