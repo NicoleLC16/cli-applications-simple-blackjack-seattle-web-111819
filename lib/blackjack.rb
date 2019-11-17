@@ -53,8 +53,9 @@ end
 
 def runner
   i = 0 
+  card_total = initial_round
   welcome
-  deal_card
-  until 
+  until card_total == 21
+    
 end
     
