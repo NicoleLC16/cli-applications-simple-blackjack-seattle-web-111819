@@ -52,6 +52,9 @@ end
 #####################################################
 
 def runner
-  # code runner here
+  i = 0 
+  welcome
+  deal_card
+  while 
 end
     
