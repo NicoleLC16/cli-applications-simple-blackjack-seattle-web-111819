@@ -38,7 +38,7 @@ def hit?(card_total)
   else
   invalid_command
   end
-r  prompt_use
+er  prompt_us
 end
 
 def invalid_command
