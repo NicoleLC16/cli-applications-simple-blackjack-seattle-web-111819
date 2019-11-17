@@ -29,7 +29,7 @@ def initial_round
 end
 
 def invalid_command
-  puts "Please enter a valid command"
+  puts "Please enter a valid command" + prompt_user
 end
 
 def hit?(card_total)
