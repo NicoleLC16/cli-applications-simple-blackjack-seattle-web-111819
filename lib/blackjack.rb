@@ -33,7 +33,7 @@ def hit?
 end
 
 def invalid_command
-  prints "Please enter a valid command"
+  print "Please enter a valid command"
 end
 
 #####################################################
